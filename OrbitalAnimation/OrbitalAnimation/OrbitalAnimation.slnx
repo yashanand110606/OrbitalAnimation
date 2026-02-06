@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OrbitalAnimation.vcxproj" Id="4178ecc2-6171-4c2c-b333-d98390dda853" />
+</Solution>
